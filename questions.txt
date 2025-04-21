@@ -1,0 +1,13 @@
+1. What is the purpose of a package in Go?
+    to group together code with a similar purpose
+
+2. What is the special name we use for a package 
+to tell Go that we want it to be turned into a file that can be executed?
+    main
+
+3. The one requirement of packages named "main" is that we...
+    define a function named "main", which is ran automatically when the program runs
+
+4. Why do we use "import" statements?
+    to give our packages access to code written in another package
+    
