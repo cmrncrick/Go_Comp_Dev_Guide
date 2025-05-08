@@ -1,5 +1,7 @@
 package main
 
+import Sect3_NewFunction "cards/Sect3_NewPackage"
+
 // variable types when declaring variable
 // bool string int float64
 // var test_bool bool
@@ -75,6 +77,8 @@ func main () {
 	cards.shuffle()
 
 	cards.print()
+
+	Sect3_NewFunction.EvenOdd()
 
 
 }
