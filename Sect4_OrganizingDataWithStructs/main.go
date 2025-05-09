@@ -57,6 +57,7 @@ func (pointerToPerson *person) updateName(newFirstName string) {
 	(*pointerToPerson).firstName = newFirstName
 }
 
+// Receive p as type person into the print function
 func (p person) print() {
 	fmt.Printf("%+v", p)
 }
