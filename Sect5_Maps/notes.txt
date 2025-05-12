@@ -1,0 +1,6 @@
+Map - collection of key/value pair (python dict)
+    - all the keys are the same type
+    - all the values are the same type
+
+
+
