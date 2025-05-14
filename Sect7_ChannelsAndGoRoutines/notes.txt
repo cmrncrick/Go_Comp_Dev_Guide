@@ -1,0 +1,12 @@
+Go routines
+
+for _, link := range links {
+    go checkLink(link)
+}
+
+when using the "go" keyword it means to run that function inside of a brand
+new go routine
+
+similar to python threading
+
+data passing through channels always has to be same data type
