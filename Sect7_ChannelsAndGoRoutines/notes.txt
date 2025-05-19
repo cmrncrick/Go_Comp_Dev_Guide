@@ -10,3 +10,4 @@ new go routine
 similar to python threading
 
 data passing through channels always has to be same data type
+
